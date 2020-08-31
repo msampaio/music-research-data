@@ -21,3 +21,24 @@ The data type choices are amplitude, Violin I, Violin II, Viola and
 Violoncello. The instrument data are pitch notes represented with MIDI
 standards (60 for C4 pitch), and amplitude data is the interval
 between the higher and lower pitches in each time point.
+
+## Data example:
+
+```json
+{
+    'Movement': 'op17n1-01',
+    'Section': 'Exp>T1',
+    'Data type': 'amplitude',
+    'Data': [0.0,
+        0.0,
+        0.0,
+
+        ...
+
+        0.0,
+        0.0,
+        0.0
+    ]
+}
+```
+
