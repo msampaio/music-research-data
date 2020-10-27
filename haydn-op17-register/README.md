@@ -1,7 +1,9 @@
 # Haydn opus 17 register
 
 This repository contains the Haydn's opus 17 pitch registers data used
-in the research published in [The Musica Theorica
+in the [research
+paper](http://revistamusicatheorica.tema.mus.br/index.php/musica-theorica/article/view/128)
+published in [The Musica Theorica
 Journal](http://revistamusicatheorica.tema.mus.br/).
 
 ## Data structure
