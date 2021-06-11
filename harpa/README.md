@@ -15,7 +15,9 @@ A estrutura dos dados consiste em um documento em formato `csv` contendo 2187 en
 - Acidentes
 - Vetor classe-intervalar (1,2,3,4,5,6)
 
-## Exemplo dos dados:
+## Exemplo dos dados
+
+- [harpa.csv](harpa.csv)
 
 ```csv
 Index,Notes (scalar),Notes (radial),PC Set,Prime Form,Forte class,Accidents,1,2,3,4,5,6
@@ -24,8 +26,3 @@ Index,Notes (scalar),Notes (radial),PC Set,Prime Form,Forte class,Accidents,1,2,
 2,Cb Db Eb Fb Gb Ab B#,Db Cb B# Eb Fb Gb Ab,B134680,0124579,7-27,"(0, 0, 0, 0, 0, 0, 2)",3,4,4,4,5,1
 10,Cb Db Eb Fb Gb An Bb,Db Cb Bb Eb Fb Gb An,B13469A,0124679,7-29,"(0, 0, 0, 0, 0, 1, 0)",3,4,4,3,5,2
 ```
-
-## Arquivos
-
-- [harpa.csv](harpa.csv)
-- [harpa.md](harpa.md) (para melhor visualização)
